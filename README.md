@@ -1,4 +1,4 @@
-# To-Do-List-Application-<!DOCTYPE html>
+# front-end-project -<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
